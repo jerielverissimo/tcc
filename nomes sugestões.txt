@@ -16,6 +16,7 @@
  - Project Pineapple
  - Project BlackEyes *
  - Project Ant *
+-  Project Panda Eyes
 
 --------------------------
 	 Aplicativo
