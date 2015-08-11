@@ -17,13 +17,19 @@
  - Project BlackEyes *
  - Project Ant *
  - Project Panda Eyes
- - Project Black Hawk	
+ - Project Black Hawk *
 
 --------------------------
 	 Aplicativo
 --------------------------
 
- - 
+ - wasp app
+ - Hawk eye
+ - object beeper
+ - faunding eye
+ - object signalling
+ - object search
+
 
 
 
